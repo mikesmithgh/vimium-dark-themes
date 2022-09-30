@@ -1,7 +1,10 @@
 # vimium-dark
 
+!!! This was hacked together, I need to come back and clean it up. !!!
+
 Dark themes for vimium chrome/firefox extension.
-Forked from [vimium-simply-dark](https://github.com/ysjn/vimium-simply-dark)
+
+Double fork! Forked [vimium-simply-dark](https://github.com/Foldex/vimium-simply-dark) from Forked from [vimium-simply-dark](https://github.com/ysjn/vimium-simply-dark)
 
 ## Usage
 In Vimium Options: `Show Advanced Options` then paste into `CSS for Vimium UI`
@@ -9,22 +12,8 @@ Uncomment theme of choice to enable.
 
 ## Screenshots
 
-### Tomorrow-Night
+### Guvbox Dark
 
-<img src="captures/tomorrow_omni.png" title="tomorrow omnibox"/>
-<img src="captures/tomorrow_hint.png" title="tomorrow hint"/>
+<img src="captures/gruvbox_omni.png" title="gruvbox omnibox"/>
+<img src="captures/gruvbox_hint.png" title="gruvbox hint"/>
 
-### Nord
-
-<img src="captures/nord_omni.png" title="nord omnibox"/>
-<img src="captures/nord_hint.png" title="nord hint"/>
-
-### Doom One
-
-<img src="captures/doom_one_omni.png" title="doom_one omnibox"/>
-<img src="captures/doom_one_hint.png" title="doom_one hint"/>
-
-### Monokai
-
-<img src="captures/monokai_omni.png" title="monokai omnibox"/>
-<img src="captures/monokai_hint.png" title="monokai hint"/>
